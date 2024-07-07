@@ -1,0 +1,2 @@
+# zsh-basics
+zsh basics
